@@ -1,7 +1,10 @@
 # AWS-Project
-My AWS projects.
+Overview
+This repository contains projects I've completed using various AWS services.
 
 
+Projects Included:-
 
+* Application Hosting on AWS: Deploying and managing a web application, including configuring Auto Scaling and Load Balancers for high availability.
+* Cost-effective Snapshot Management with AWS Lambda: Automating snapshot management.
 
-This project demonstrates a scalable, highly available AWS infrastructure setup using EC2 instances across multiple availability zones with an Application Load Balancer. It follows best practices for deploying web applications that require high availability and fault tolerance, allowing seamless distribution of traffic and resilience against failures in any single availability zone.
